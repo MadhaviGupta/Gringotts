@@ -11,9 +11,7 @@ import java.time.LocalDateTime;
 public class ExpenseResponse {
 
     private Long expenseId;
-
     private String category;
-
     private String description;
     private LocalDateTime creationTime;
     private LocalDate expenseDate;
